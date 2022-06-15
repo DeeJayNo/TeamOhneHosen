@@ -35,8 +35,9 @@ contents
 
 |   #           | xxx           | 
 | ------------- |:-------------:| 
-| 0 | Thema | 
-| 1 | Titel     |  
-| 2 | ? Bild ?      |
+| 0 | Thema           | 
+| 1 | Titel           |  
+| 2 | ? Bild ?        |
 | 3 | "By"+ Autor     |
-| 4 | content start     |
+| 4 | Datum           |
+| 5 | content start   |
