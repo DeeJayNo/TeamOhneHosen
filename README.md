@@ -43,11 +43,11 @@ contents
 | 5 | content start   |
 
 
-versionen
+Versionen:
 ``` versionen
 
 v1
 v2: weniger spalten
-v3 weniger zeilen (random 12000)
-v4 weniger zeilen; content durch contents ersetzt, da content leere einträge am ende hatte 
+v3 weniger Zeilen (random 12000)
+v4 weniger Zeilen; "content" durch "contents" ersetzt, da "content" leere Einträge am ende der Tabelle hatte 
 ``` 
