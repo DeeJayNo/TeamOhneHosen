@@ -52,7 +52,7 @@ Recently BERT-based models are applied in NLP tasks, that is the hybrid of BERT 
 v2: weniger spalten<br>
 v3: weniger Zeilen (random 12000)<br>
 v4: weniger Zeilen; "content" durch "contents" ersetzt, da "content" leere Einträge am ende der Tabelle hatte; all-in-one als pickle(zu groß für [git] https://thkoelnde-my.sharepoint.com/:f:/g/personal/david_joe_novak_smail_th-koeln_de/Eu9Sb5L-HOFIqVy_PC1BtPgBQXxJk2miKObKG4ZLpCWwhQ?e=7mbWhP <br>
-v5: Thema & Title wieder aufgenommen; zusammenführen der pipeline in 1 notebook; ausßführen des Codes auf den gesammten Datensatz + aufteilen auf 4 dokumente; Text Cleaning; Tokens; Lemma; No_Stopwords
+v5: Thema & Title wieder aufgenommen; zusammenführen der pipeline in 1 notebook; ausßführen des Codes auf den gesammten Datensatz + aufteilen auf 4 & 8 & 16 dokumente; Text Cleaning; Tokens; Lemma; No_Stopwords
 
 
 
