@@ -28,6 +28,9 @@ Quellen für Paper:
 
 Recently BERT-based models are applied in NLP tasks, that is the hybrid of BERT and Artificial Intelligence techniques like RNN (Kula, Choraś & Kozik, 2020),CNN (Kaliyar, Goswami & Narang, 2021) and both (Ding, Hu & Chang, 2020). BERT models have also proved its importance to deal with multi-modal news articles (Zhang et al., 2020).(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8053013/)
 
+
+https://peerj.com/articles/cs-467/
+
 ```
 
 
@@ -50,9 +53,9 @@ Recently BERT-based models are applied in NLP tasks, that is the hybrid of BERT 
 ## Versionslog:
 
 v2: weniger spalten<br>
-v3 weniger Zeilen (random 12000)<br>
-v4 weniger Zeilen; "content" durch "contents" ersetzt, da "content" leere Einträge am ende der Tabelle hatte; all-in-one als pickle(zu groß für [git] https://thkoelnde-my.sharepoint.com/:f:/g/personal/david_joe_novak_smail_th-koeln_de/Eu9Sb5L-HOFIqVy_PC1BtPgBQXxJk2miKObKG4ZLpCWwhQ?e=7mbWhP
-v5
+v3: weniger Zeilen (random 12000)<br>
+v4: weniger Zeilen; "content" durch "contents" ersetzt, da "content" leere Einträge am ende der Tabelle hatte; all-in-one als pickle(zu groß für [git] https://thkoelnde-my.sharepoint.com/:f:/g/personal/david_joe_novak_smail_th-koeln_de/Eu9Sb5L-HOFIqVy_PC1BtPgBQXxJk2miKObKG4ZLpCWwhQ?e=7mbWhP <br>
+v5: Thema & Title wieder aufgenommen; zusammenführen der pipeline in 1 notebook; ausßführen des Codes auf den gesammten Datensatz + aufteilen auf 4 & 8 & 16 dokumente; Text Cleaning; Tokens; Lemma; No_Stopwords
 
 
 
