@@ -28,6 +28,9 @@ Quellen für Paper:
 
 Recently BERT-based models are applied in NLP tasks, that is the hybrid of BERT and Artificial Intelligence techniques like RNN (Kula, Choraś & Kozik, 2020),CNN (Kaliyar, Goswami & Narang, 2021) and both (Ding, Hu & Chang, 2020). BERT models have also proved its importance to deal with multi-modal news articles (Zhang et al., 2020).(https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8053013/)
 
+
+https://peerj.com/articles/cs-467/
+
 ```
 
 
